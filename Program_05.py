@@ -1,4 +1,3 @@
-
 # my_lanbda_01 = lambda x: x*2
 # print(my_lanbda_01(2))
 
@@ -7,12 +6,22 @@
 # new_list = list(map(my_lanbda_02, my_list))
 # print(new_list)
 
-
 # num = 0.25
 # print(id(num))
 
 # text = "Sobhan Esmaeili"
 # print(type(text))
+
+
+# Creating a Class
+class Car():
+    pass  # simply using as a placeholder until we add more code tomorrow
+
+
+
+
+
+
 
 # class person():
 #     def __init__(self, first_name, last_name):
